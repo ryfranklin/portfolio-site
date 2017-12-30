@@ -1,0 +1,64 @@
+body, html {
+  height: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom:2%;
+}
+
+.container-fluid {
+  padding-top: 15px;
+
+}
+
+header{
+  height: auto;
+}
+
+main {
+  padding-top: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+section {
+  position: relative;
+  width: 100%;
+}
+
+a {
+  color: #363b3f;
+}
+
+#header-row {
+  border-bottom-style: solid;
+  padding-right: 15px;
+}
+
+#header-text {
+  max-width: 100%;
+  text-align: right;
+  line-height: 40%;
+  color: #363b3f;
+}
+
+#main-body {
+  height: 400px;
+  padding-bottom: 15px;
+}
+
+#jumbo {
+  background-image: url("wallpaper_tech.jpg");
+  background-size: cover;
+}
+
+#project-title {
+padding-top: 10px;
+border-top-style: solid;
+color: #363b3f;
+text-align: left;
+}
+
+#bottom-section {
+  text-align: center;
+  padding-top: 35px;
+}
