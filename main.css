@@ -34,11 +34,20 @@ a {
   padding-right: 15px;
 }
 
+#ryanF {
+  max-height: 100px;
+}
+
+#rf {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 #header-text {
   max-width: 100%;
-  text-align: right;
   line-height: 40%;
   color: #363b3f;
+  text-align: right;
 }
 
 #main-body {
